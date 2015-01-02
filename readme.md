@@ -19,6 +19,7 @@ The original sound files are listed below.
 - [Forest Rain by Corsica_S](http://www.freesound.org/people/Corsica_S/sounds/169031/) (CC BY)
 - [Stream by mystiscool](http://www.freesound.org/people/mystiscool/sounds/7138/) (CC BY)
 - [Thunderstorm by RHumphries](http://www.freesound.org/people/RHumphries/sounds/2523/) (CC BY)
+- [Wind by felix.blume](http://www.freesound.org/people/felix.blume/sounds/139337/) (CC0)
 
 To add new sounds, you just need to create an ogg file of a few
 minutes (preferably less than 5) that loops seamlessly, and set the
